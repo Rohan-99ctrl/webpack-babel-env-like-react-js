@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fira+Mono:wght@500&family=Lobster&family=Orbitron:wght@900&family=Pacifico&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Space+Mono:ital@1&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: poppins;
+}
+
+
+
+/* div.box{
+    width: 500px;
+    height: 300px;
+    background-color: coral;
+    text-align: center;
+    padding: 35px 0px;
+    border-radius: 15px;
+    border: 3px solid rgb(0, 255, 242);
+    box-shadow: 0px 0px 10px 1px black;
+}
+
+div.box h1{
+    color: rgb(185, 74, 0);
+    font-weight: 900;
+} */
+

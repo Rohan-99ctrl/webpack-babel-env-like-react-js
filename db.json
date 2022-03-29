@@ -1,0 +1,35 @@
+{
+    "product"   : [
+        {
+            "id"    : 1,
+            "name"  : "Beriyani",
+            "price" : "$100",
+            "salePrice" : "$90",
+            "photo"     : "https://i0.wp.com/www.10minutesrecipe.com/wp-content/uploads/2021/07/Bangladeshi-Chicken-Biryani-Recipe.jpg?fit=800%2C600&ssl=1"
+        },
+
+        {
+            "id"    : 2,
+            "name"  : "Kacchi",
+            "price" : "$100",
+            "salePrice" : "$90",
+            "photo"     : "https://recipesaresimple.com/wp-content/uploads/2013/03/chicken-biryani.jpg"
+        },
+
+        {
+            "id"    : 3,
+            "name"  : "Teheri",
+            "price" : "$100",
+            "salePrice" : "$90",
+            "photo"     : "https://i0.wp.com/www.utshob.com/wp-content/uploads/2020/04/Teharil.jpg?fit=1024%2C1024&ssl=1"
+        },
+
+        {
+            "id"    : 4,
+            "name"  : "Kabab",
+            "price" : "$100",
+            "salePrice" : "$90",
+            "photo"     : "https://www.ndtv.com/cooks/images/seekh-kebab-620.jpg"
+        }
+    ]
+}
